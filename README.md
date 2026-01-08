@@ -53,7 +53,7 @@ ATAC-seq is a method for mapping chromatin accessibility genome-wide. This pipel
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ATAC-seq-pipeline.git
+git clone https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline.git
 cd ATAC-seq-pipeline
 
 # 2. Install dependencies (see INSTALL.md for details)
@@ -254,10 +254,10 @@ If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{atac_seq_pipeline,
-  author = {Your Name},
+  author = {M.Adeel},
   title = {ATAC-seq Analysis Pipeline},
   year = {2026},
-  url = {https://github.com/yourusername/ATAC-seq-pipeline},
+  url = {https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline},
   version = {1.0.0}
 }
 ```
@@ -279,13 +279,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ATAC-seq-pipeline/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ATAC-seq-pipeline/discussions)
-- **Email**: your.email@institution.edu
+- **Issues**: [GitHub Issues](https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline/discussions)
+- **Email**: Muhammad-Adeel@omrf.org
 
 ## 🙏 Acknowledgments
 
-This pipeline was developed at [Your Institution]. We thank the developers of all the tools integrated into this pipeline.
+This pipeline was developed at OMRF. We thank the developers of all the tools integrated into this pipeline.
 
 ---
 
