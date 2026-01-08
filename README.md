@@ -8,18 +8,19 @@ A comprehensive, reproducible, and user-friendly pipeline for analyzing ATAC-seq
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output Files](#output-files)
-- [Quality Control Metrics](#quality-control-metrics)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Output Files](#-output-files)
+- [Quality Control Metrics](#-quality-control-metrics)
+- [Test Data](#-test-data)
+- [Citation](#-citation)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ## 🔬 Overview
 
