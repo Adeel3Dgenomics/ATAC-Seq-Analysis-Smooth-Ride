@@ -1,0 +1,42 @@
+name: atac-seq
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Core tools
+  - python=3.9
+  - r-base=4.2
+  
+  # Bioinformatics tools
+  - fastqc=0.11.9
+  - trim-galore=0.6.7
+  - cutadapt=4.1
+  - bowtie2=2.4.5
+  - samtools=1.15
+  - picard=2.27.4
+  - bedtools=2.30.0
+  - deeptools=3.5.1
+  - homer=4.11
+  - subread=2.0.3
+  - multiqc=1.12
+  
+  # R packages
+  - r-ggplot2=3.3.6
+  - r-dplyr=1.0.9
+  - r-tidyr=1.2.0
+  
+  # Python packages
+  - numpy=1.23.0
+  - matplotlib=3.5.2
+  - pandas=1.4.3
+  
+  # Utilities
+  - wget
+  - curl
+  - git
+  - bc
+
+# Note: Genrich must be installed separately (not available in conda)
+# Install with: git clone https://github.com/jsh58/Genrich.git && cd Genrich && make

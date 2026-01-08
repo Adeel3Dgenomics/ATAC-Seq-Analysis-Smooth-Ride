@@ -1,0 +1,4 @@
+Sample,Raw_Reads,Mapping_Rate,Duplication_Rate,FRiP_Score
+GM12878_Rep1,52847261,95.5,26.7,0.387
+GM12878_Rep2,48932156,95.4,26.9,0.402
+GM12878_Rep3,51276839,95.4,26.6,0.378

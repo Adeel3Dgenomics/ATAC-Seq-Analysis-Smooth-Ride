@@ -1,0 +1,80 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Conda
+.conda/
+*.tar.bz2
+
+# Pipeline-specific
+.pipeline_progress
+command_log.txt
+reproducibility_log.txt
+*.log
+*.out
+*.err
+slurm-*.out
+
+# Data directories (uncomment if you want to exclude large data)
+# QC/
+# trimmed_data/
+# alignment/
+# peaks/
+# bigwig_tracks/
+# *.bam
+# *.bam.bai
+# *.fastq.gz
+# *.fq.gz
+# *.bw
+
+# Intermediate files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration with sensitive paths (keep example)
+config.sh
+
+# Test output (keep test reference data)
+test_data/output/
+
+# Mac
+*.DS_Store
+
+# Compressed files
+*.zip
+*.tar.gz
+*.tgz
+
+# Backup files
+*.bak
+*.backup
+*~
