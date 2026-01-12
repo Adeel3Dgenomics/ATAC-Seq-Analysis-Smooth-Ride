@@ -231,7 +231,7 @@ def plot_qc_metrics():
     ax2.axhline(40, color='orange', linestyle='--', linewidth=2, alpha=0.7, label='Threshold (40%)')
     ax2.set_ylabel('Duplication Rate (%)', fontsize=11, fontweight='bold')
     ax2.set_title('PCR Duplication Rate', fontsize=13, fontweight='bold', pad=10)
-    ax2.set_ylim(0, 50)
+    ax2.set_ylim(0, 100)
     ax2.legend()
     ax2.grid(axis='y', alpha=0.3)
     for bar, rate in zip(bars, duplication_rate):
