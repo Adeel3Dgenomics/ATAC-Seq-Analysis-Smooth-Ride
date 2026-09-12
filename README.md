@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Adeel3Dgenomics/ATAC-seq-pipeline/discussions)
-- **Email**: Muhammad-Adeel@omrf.org
+- **Email**: m.muzammal.adeel@outlook.com
 
 ## 🙏 Acknowledgments
 
